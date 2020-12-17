@@ -1,4 +1,4 @@
-baseURL = "htttps://kopp20.github.io/monBlog"
+baseURL = "https://kopp20.github.io/monBlog"
 languageCode = "en"
 DefaultContentLanguage = "en"
 title = "Website of Kevin Kopp"
